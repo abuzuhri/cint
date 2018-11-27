@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Se.Cint.Robot.Business", "Se.Cint.Robot.Business\Se.Cint.Robot.Business.csproj", "{8369B5F6-51E6-4AE4-A324-534970E51CE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Se.Cint.Robot.ConsoleApp", "Se.Cint.Robot.ConsoleApp\Se.Cint.Robot.ConsoleApp.csproj", "{11FE3D9F-5725-49FF-9793-E1ED8FD319A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8369B5F6-51E6-4AE4-A324-534970E51CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8369B5F6-51E6-4AE4-A324-534970E51CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8369B5F6-51E6-4AE4-A324-534970E51CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FE3D9F-5725-49FF-9793-E1ED8FD319A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FE3D9F-5725-49FF-9793-E1ED8FD319A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FE3D9F-5725-49FF-9793-E1ED8FD319A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FE3D9F-5725-49FF-9793-E1ED8FD319A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
